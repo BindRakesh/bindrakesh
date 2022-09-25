@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rakesh</h1>
-<h3 align="center">A passionate AEM developer from India</h3>
+<h1 align="left">Hi 👋, I'm Rakesh</h1>
+<h3 align="left">A passionate AEM developer from India</h3>
 <img align="right" class="img-gif" alt="coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
 <p align="left"> <a href="https://twitter.com/bindrks" target="blank"><img src="https://img.shields.io/twitter/follow/bindrks?logo=twitter&style=for-the-badge" alt="bindrks" /></a> </p>
