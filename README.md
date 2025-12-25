@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **node.js**
 
-- 👨‍💻 All of my projects are available at [https://rksxo-portfolio.netlify.app/](https://rksxo-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at https://bindrakesh.github.io/portfolio/
 
 - 💬 Ask me about **AEM, react, js, html, css**
 
